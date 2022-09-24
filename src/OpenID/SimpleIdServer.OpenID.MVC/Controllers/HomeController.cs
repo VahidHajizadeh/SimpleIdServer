@@ -11,7 +11,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using System.Web;
 
-namespace SimpleIdServer.OpenID.UI
+namespace SimpleIdServer.OpenID.MVC.Controllers
 {
     public class HomeController : Controller
     {

@@ -3,7 +3,7 @@
 using Microsoft.AspNetCore.Mvc;
 using SimpleIdServer.OpenID.UI.ViewModels;
 
-namespace SimpleIdServer.OpenID.UI
+namespace SimpleIdServer.OpenID.MVC.Controllers
 {
     public class ErrorsController : Controller
     {

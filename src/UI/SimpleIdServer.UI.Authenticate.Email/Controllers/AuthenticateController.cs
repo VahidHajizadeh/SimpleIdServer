@@ -9,6 +9,7 @@ using SimpleIdServer.OAuth.Helpers;
 using SimpleIdServer.OAuth.Persistence;
 using SimpleIdServer.OpenID.Extensions;
 using SimpleIdServer.OpenID.Helpers;
+using SimpleIdServer.OpenID.MVC.Controllers;
 using SimpleIdServer.OpenID.Options;
 using SimpleIdServer.OpenID.UI;
 using SimpleIdServer.UI.Authenticate.Email.Services;

@@ -22,7 +22,7 @@ using System.Security.Cryptography;
 using System.Threading;
 using System.Threading.Tasks;
 
-namespace SimpleIdServer.OpenID.UI
+namespace SimpleIdServer.OpenID.MVC.Controllers
 {
     [Authorize("IsConnected")]
     public class ConsentsController : Controller

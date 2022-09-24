@@ -6,6 +6,6 @@
     <PackageReference Include="Twilio" Version="5.63.0" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\..\OpenID\SimpleIdServer.OpenID\SimpleIdServer.OpenID.csproj" />
+    <ProjectReference Include="..\..\OpenID\SimpleIdServer.OpenID.MVC\SimpleIdServer.OpenID.MVC.csproj" />
   </ItemGroup>
 </Project>

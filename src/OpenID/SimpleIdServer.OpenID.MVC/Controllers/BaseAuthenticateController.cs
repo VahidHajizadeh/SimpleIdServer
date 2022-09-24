@@ -18,7 +18,7 @@ using System.Security.Claims;
 using System.Threading;
 using System.Threading.Tasks;
 
-namespace SimpleIdServer.OpenID.UI
+namespace SimpleIdServer.OpenID.MVC.Controllers
 {
     public class BaseAuthenticateController : Controller
     {
